@@ -6,7 +6,7 @@ using UnityEngine;
 public class cube : MonoBehaviour
 {
     // Start is called before the first frame updatep
-    [SerializeField]
+   // [SerializeField]
     private float speed=1.0f;    
     //   public  void speedUser(float NewSpeed){
             // speed=NewSpeed;
